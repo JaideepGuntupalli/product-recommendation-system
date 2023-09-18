@@ -1,0 +1,318 @@
+[
+    {
+        "type": "Electronics",
+        "categories": [
+            {
+                "category": "Audio",
+                "subCategories": [
+                    "Bluetooth Headphones",
+                    "Wired Headphones",
+                    "True Wireless Earbuds",
+                    "Bluetooth Speakers",
+                    "Soundbars",
+                    "Home Theatres",
+                    "TV Streaming Device"
+                ]
+            },
+            {
+                "category": "Cameras",
+                "subCategories": [
+                    "DSLR & Mirrorless",
+                    "Sports & action",
+                    "Point & Shoot",
+                    "Instant Cameras",
+                    "Camcorders",
+                    "Camera tripods",
+                    "Camera Lenses",
+                    "Drone",
+                    "Flashes",
+                    "Gimbals",
+                    "Binoculars"
+                ]
+            },
+            {
+                "category": "Computer Peripherals",
+                "subCategories": [
+                    "Printers",
+                    "Monitors",
+                    "Projectors",
+                    "Portable projectors",
+                    "Ink Catridges",
+                    "Ink Bottles",
+                    "Receipt Printers",
+                    "Lamination Machines",
+                    "Note Counting Machines",
+                    "Barcode scanners",
+                    "Currency Detectors"
+                ]
+            },
+            {
+                "category": "Gaming",
+                "subCategories": [
+                    "Gaming Consoles",
+                    "Gaming Mouse",
+                    "Gaming Keyboards",
+                    "Gamepads",
+                    "Games",
+                    "Gaming Mousepads",
+                    "Controllers",
+                    "Gaming Components"
+                ]
+            },
+            {
+                "category": "Health & Personal Care",
+                "subCategories": [
+                    "Trimmers",
+                    "Hair Straighteners",
+                    "Hair Dryers",
+                    "Epilators",
+                    "Glucometers And Accessories",
+                    "Blood Pressure Monitors",
+                    "Digital Thermometers",
+                    "Weighing Scales",
+                    "Massagers",
+                    "Nebulizers",
+                    "Vaporizers"
+                ]
+            },
+            {
+                "category": "Laptop Accessories",
+                "subCategories": [
+                    "Mouse",
+                    "Laptop Keyboards",
+                    "Router",
+                    "Data Cards",
+                    "UPS",
+                    "USB Gadgets",
+                    "Security Software",
+                    "Laptop Battery",
+                    "Laptop Adapter",
+                    "Wireless USB Adapter",
+                    "Processor"
+                ]
+            },
+            {
+                "category": "Laptop & Desktop",
+                "subCategories": [
+                    "Laptops",
+                    "Gaming Laptops",
+                    "Desktop PCs",
+                    "All in One PCs",
+                    "Mini PCs",
+                    "Tower PCs",
+                    "PC Finder"
+                ]
+            },
+            {
+                "category": "Smart Home Automation",
+                "subCategories": [
+                    "Smart Assistants",
+                    "Smart Lights",
+                    "Smart Cameras",
+                    "Smart Switches",
+                    "Smart Door Locks",
+                    "Sensors & Alarms"
+                ]
+            },
+            {
+                "category": "Smart Wearables",
+                "subCategories": [
+                    "Smart Watches",
+                    "Smart Bands",
+                    "Smart Glasses"
+                ]
+            },
+            {
+                "category": "Storage",
+                "subCategories": [
+                    "Mobile Memory Card",
+                    "Computer Storage Pendrive",
+                    "Mobile Storage Pendrive",
+                    "External Hard Drive",
+                    "Internal Hard Drive"
+                ]
+            },
+            {
+                "category": "Tabelts",
+                "subCategories": ["Wifi", "Wifi + Cellular"]
+            },
+            {
+                "category": "Mobiles",
+                "subCategories": [
+                    "Mi mobiles",
+                    "Realme mobiles",
+                    "Samsung mobiles",
+                    "Infinix mobiles",
+                    "OPPO mobiles",
+                    "Apple mobiles",
+                    "Vivo mobiles",
+                    "Honor mobiles",
+                    "Asus mobiles"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Furniture",
+        "categories": [
+            {
+                "category": "Bedroom",
+                "subCategories": [
+                    "Beds",
+                    "Mattresses",
+                    "Wardrobes",
+                    "Bedding",
+                    "Side tables",
+                    "Mirrors",
+                    "Pillows"
+                ]
+            },
+            {
+                "category": "Living Room",
+                "subCategories": [
+                    "Sofa",
+                    "Coffee table",
+                    "TV Stand",
+                    "cabinets",
+                    "Curtains",
+                    "Lighting"
+                ]
+            },
+            {
+                "category": "Study/Office",
+                "subCategories": [
+                    "Desk",
+                    "Laptop tables",
+                    "Office chair",
+                    "Drawer units",
+                    "Shelves"
+                ]
+            },
+            {
+                "category": "Kitchen",
+                "subCategories": [
+                    "Kitchen chairs",
+                    "Kitchen trolleys",
+                    "Kitchen appliances",
+                    "Kitchen sinks",
+                    "Kitchen taps"
+                ]
+            },
+            {
+                "category": "Dining Room",
+                "subCategories": [
+                    "Dining tables",
+                    "Dining chairs",
+                    "Dining sets",
+                    "Cutlery units"
+                ]
+            },
+            {
+                "category": "Bathroom",
+                "subCategories": [
+                    "Vanities",
+                    "Showers",
+                    "Bathroom storage",
+                    "Taps",
+                    "Sinks"
+                ]
+            }
+        ]
+    },
+    {
+        "type": "Household",
+        "categories": [
+            {
+                "category": "Furnishings",
+                "subCategories": [
+                    "Bed Linens",
+                    "Bedsheets",
+                    "Blankets",
+                    "Curtains",
+                    "Bath linen",
+                    "Pillows",
+                    "Kitchen linen"
+                ]
+            },
+            {
+                "category": "Kitchen and Dining",
+                "subCategories": [
+                    "Cookware",
+                    "Lunchboxes, bottles",
+                    "Knives,Choppers",
+                    "Gas stove",
+                    "Dinnerware",
+                    "Kitchen storage",
+                    "Bakeware"
+                ]
+            },
+            {
+                "category": "Home Decor",
+                "subCategories": [
+                    "Lighting",
+                    "Wallpapers",
+                    "Paintings and posters",
+                    "Clocks",
+                    "Decoratives",
+                    "Vases",
+                    "Home fragrances",
+                    "Photo frames",
+                    "Wall decor"
+                ]
+            },
+            {
+                "category": "Tools and utility",
+                "subCategories": [
+                    "Hand tools",
+                    "Power tools",
+                    "Measuring tools",
+                    "Home storage",
+                    "Umbrellas",
+                    "Lock and security",
+                    "Paint equipment"
+                ]
+            },
+            {
+                "category": "Lighting and Electricals",
+                "subCategories": [
+                    "Bulbs",
+                    "Emergency lights",
+                    "Torches",
+                    "Tube lights",
+                    "Extension cords",
+                    "Batteries",
+                    "Solar lights"
+                ]
+            },
+            {
+                "category": "Cleaning and Bath",
+                "subCategories": [
+                    "Mops",
+                    "Cleaning Supplies",
+                    "Air freshners",
+                    "Household supplies",
+                    "Liquid Detergents",
+                    "Taps and Faucets",
+                    "Bathroom shelves",
+                    "Shower heads",
+                    "Bathroom Accesories"
+                ]
+            },
+            {
+                "category": "Pet and Gardening",
+                "subCategories": [
+                    "Plant seeds",
+                    "Manure",
+                    "Pots",
+                    "Garden tools set",
+                    "Watering equipment",
+                    "Dog essentials",
+                    "Cat essentials",
+                    "Fish and aquatic",
+                    "Pet hygiene",
+                    "Pet toys"
+                ]
+            }
+        ]
+    }
+]
